@@ -1,1 +1,2 @@
-# open_test
+# Test data
+Currently only contains test data
